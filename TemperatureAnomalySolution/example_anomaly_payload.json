@@ -1,0 +1,9 @@
+{
+  "machine": {
+    "temperature": 22.009651571633132,
+    "pressure": 1.1150235967683315
+  },
+  "ambient": { "temperature": 20.862547819205815, "humidity": 24 },
+  "timeCreated": "2020-12-08T16:27:38.9870112Z",
+  "anomaly": true
+}

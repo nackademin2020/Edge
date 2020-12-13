@@ -1,0 +1,4 @@
+azure-iot-device~=2.0.0
+pandas
+scikit-learn==0.22.2.post1
+numpy
